@@ -1,0 +1,39 @@
+body {
+  text-align:center;
+  background-color:#16817a;
+}
+
+
+
+.login-page {
+  background-color:#4cbbb9;
+  width:400px;
+  height:360px;
+  margin:180px auto;
+  padding:3%;
+  border:2px solid #8ec6c5
+}
+
+.quiz-logo {
+  margin-bottom:21%;
+}
+
+
+
+.name-btn {
+  width:90%;
+  margin-left:3%;
+}
+
+.signin-button {
+  margin-top:11%;
+}
+
+a {
+  color:white;
+}
+
+a:hover {
+  text-decoration: none;
+  color:#85a392;
+}
